@@ -24,5 +24,5 @@ for i in range (5):
         together[name]=ratio
         if ratio>7.0:
            print str(name) + "  " + str(ratio)
-    counter=counter+1y
+    counter=counter+1
 
